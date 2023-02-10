@@ -5,7 +5,7 @@
 <param ve-config 
        title="Hi, I'm Annette Castro."
        author="JSTOR Labs team"
-       banner="https://ibb.co/kcQY6gn"
+       banner="https://iiif.juncture-digital.org/banner/?url=https://ibb.co/kcQY6gn"
        layout="vertical">
        >
 
