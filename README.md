@@ -1,7 +1,7 @@
 <param ve-config 
        title="Hi, I'm Annette Castro."
        author="JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://i.ibb.co/cTDzXc5/69-CB400-B-1-C8-D-41-E2-BAB1-DC3-C1-E4-D9-D65.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://i.ibb.co/G9q6st3/B9656215-62-BE-485-C-9-D84-3-AE433-A0-DC61.jpg" 
        width=”200”
        layout="vertical">
 
