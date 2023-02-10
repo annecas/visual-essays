@@ -1,7 +1,8 @@
 <param ve-config 
        title="Hi, I'm Annette Castro."
        author="JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://i.ibb.co/G9q6st3/B9656215-62-BE-485-C-9-D84-3-AE433-A0-DC61.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://i.ibb.co/qMZQV2q/0-BA6-FDED-C534-4-FCD-990-D-8060-B44294-D0.jpg"
+              
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
