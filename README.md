@@ -4,7 +4,7 @@
 <param ve-config 
        title="Hi, I'm Annette Castro."
        author="JSTOR Labs team"
-       banner=<a href="https://ibb.co/7RWM6Nr"><img src="https://i.ibb.co/k98bW6q/06-B52303-5-FAF-4114-AFBA-492-FDDF495-D9.jpg" alt="06-B52303-5-FAF-4114-AFBA-492-FDDF495-D9" border="0"></a><br /><a target='_blank' href='https://usefulwebtool.com/'>number fonts copy and paste</a><br />
+       banner="https://ibb.co/7RWM6Nr"
        layout="vertical">
        >
 
