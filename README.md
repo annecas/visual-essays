@@ -1,13 +1,11 @@
 # visual-essays
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
- <a href="[https://juncture-digital.org](https://juncture-digital.org/<annecas>/<visual-essays>)"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
        title="Hi, I'm Annette Castro."
        author="JSTOR Labs team"
        banner="https://iiif.juncture-digital.org/banner/?url=https://ibb.co/kcQY6gn"
        layout="vertical">
-       >
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
