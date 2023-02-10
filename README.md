@@ -1,5 +1,5 @@
 # visual-essays
-<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+<a href="[https://juncture-digital.org](https://juncture-digital.org/<annecas>/<visual-essays>)"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
        title="Hi, I'm Annette Castro."
