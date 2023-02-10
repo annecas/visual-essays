@@ -51,3 +51,7 @@ Others are selectable using icons displayed in the top right margin of the parag
 # References
 
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+
+[submodule "path_to_submodule"]
+  path = juncture
+  url = git://github.com/JSTOR-Labs/juncture
