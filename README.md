@@ -50,4 +50,4 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # I am ready to grow and contribute.
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+
