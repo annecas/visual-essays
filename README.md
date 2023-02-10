@@ -4,8 +4,7 @@
 <param ve-config 
        title="Hi, I'm Annette Castro."
        author="JSTOR Labs team"
-       banner="https://ibb.co/7RWM6Nr"
-       layout="vertical">
+       banner="https://ibb.co/7RWM6Nr">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
