@@ -15,7 +15,7 @@ I am committed to developing as a creative leader in education, the arts and hum
 
 <param ve-image 
        license="private" 
-       url="https://live.staticflickr.com/65535/52681831789_e1d1b4d923_c.jpg"
+       url="https://live.staticflickr.com/65535/52681831789_e1d1b4d923_b.jpg"
        >
 
 ## I can make a positive impact.
