@@ -16,7 +16,7 @@ My career focus has been to develop as a creative education leader, combined wit
 <param ve-image 
        description="photo" 
        license="private" 
-       url="https://i.ibb.co/1KJqnTN/EB017780-CED3-48-B8-A8-D4-D477-A30-E3490.jpg">
+       url="https://i.ibb.co/NtkTm1h/F84-A1-CE5-918-F-4-F01-9568-B3-C2550-C1-E17.jpg">
 
 # I can make a positive impact.
 
