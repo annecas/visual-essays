@@ -23,7 +23,7 @@ I am committed to developing as a creative leader in education, the arts and hum
 Teaching during the COVID-19 pandemic revealed today’s challenge for educational tools and services to adequately address the ongoing learning crisis. Not only do I want to continue creating engaging content and experiences, I am ready to make a greater impact by connecting broader audiences to online resources that expand access to learning. Last fall, I took the leap to manage a legislative campaign for an education-focused candidate. Against an urgent timeline, I connected teams of volunteers, interns and political experts to deliver results while I researched and designed content to promote our mission and values across online platforms. Our campaign for a first-time candidate successfully earned 49% of the vote, achieving the most voter outreach in the state.
 
 <param ve-image 
-       url="https://i.ibb.co/Lky4wXb/3753-B335-724-B-43-E9-A12-B-44520-D9-E67-D8.jpg"
+       url="https://live.staticflickr.com/65535/52681831814_f0a93f93f1_k.jpg"
        >
 
 # I am ready to grow and contribute.
