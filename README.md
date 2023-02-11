@@ -33,4 +33,7 @@ Now, I am eager to continue doing what I love—creating compelling content with
 
 I would be honored to join your team and grow ITHAKA’s initiatives. Thank you for considering my application. I look forward to discussing my qualifications and enthusiasm for ITHAKA’s work further.
 
+<param ve-image 
+       url="https://i.ibb.co/CKNDmWc/4-DE12-E90-51-D0-40-D7-AD81-B2-F996-D89183.jpg">
+
 
