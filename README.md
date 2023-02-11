@@ -34,7 +34,7 @@ My career focus has been to develop as a creative education leader, combined wit
 Teaching during the COVID-19 pandemic revealed today’s challenge for educational tools and services to adequately address the ongoing learning crisis. Not only do I want to continue creating engaging content and experiences, I am ready to make a greater impact by connecting broader audiences to online resources that expand access to learning. Last fall, I took the leap to manage a legislative campaign for an education-focused candidate. Against an urgent timeline, I connected teams of volunteers, interns and political experts to deliver results while I researched and designed content to promote our mission and values across online platforms. Our campaign for a first-time candidate successfully earned 49% of the vote, achieving the most voter outreach in the state.
 
 <param ve-image 
-       url=https://i.ibb.co/pdnjRr9/23-AD1-CC9-6-A04-498-B-BABD-47-C5-B86009-D8.jpg
+       url=https://i.ibb.co/0GX8qBp/7-E186-A06-F2-D2-46-D4-BB85-F56652-B71620.jpg
        zoom="11"
        >
 
