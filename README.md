@@ -1,7 +1,7 @@
 <param ve-config 
        title="Hi, I'm Annette Castro."
        author="Fellow, Innovation Applicant"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://photos.app.goo.gl/Z4Qqv7tP6wS558eF8"
+       banner="https://iiif.juncture-digital.org/banner/?url=https://lh3.googleusercontent.com/LLZXxsePh51YsyVe-JTCewNryvVOt1TCF3Ew_JDEctlslrrlmy2VTbE2lyncSkwJVj5Nm7OGuLhnwCQ_TU3EWV5wLFu6suMrV6f9pyhEvq5rvPeNO4apZdJcEqnh2YQXllXUlw4ZDA=w600-h315-p-k"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
