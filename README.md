@@ -32,7 +32,7 @@ Teaching during the COVID-19 pandemic revealed today’s challenge for education
 I am eager to continue doing what I love—creating compelling content with deep care for users, leveraging data to adequately address needs, and growing through authentic collaboration—by working with like-minded professionals at ITHAKA to promote access to high-quality educational content. I have seen firsthand how technology can empower students to achieve their goals and develop learner confidence, and have actually used JSTORLabs’ projects to make learning more dynamic, such as the [Interview Archive](https://labs.jstor.org/interview/mlk/) to teach about the civil rights movement. Having specialized in the humanities and arts, I am also particularly drawn to working with libraries, higher education, and other cultural institutions while gaining familiarity with application prototyping, user research, business modeling, and structured brainstorming.
                                                                                      
  <param ve-image 
-       url="https://i.ibb.co/t8MKZk8/1942-FCC7-5313-437-C-BEC5-A26636-D6-B0-FD.jpg"
+       url="https://i.ibb.co/X7Z51G0/93-D00-A1-C-66-F0-4304-9-CF8-A1-DE2-D500-AD2.jpg"
        >                                                                                   
 
 I would be honored to join your team and grow ITHAKA’s initiatives. Thank you for considering my application. I look forward to discussing my qualifications and enthusiasm for ITHAKA’s work further.
