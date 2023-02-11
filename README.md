@@ -24,16 +24,19 @@ I am excited and prepared to contribute and grow as an Innovation Fellow at ITHA
 My career focus has been to develop as a creative education leader, combined with my passion for the arts and humanities. With seven years in classroom and museum education, including one fully remote instructional year, I have demonstrated my consistent ability to adapt to challenges quickly while managing multiple projects and priorities effectively, as well as initiate projects that improve processes and team results. As a special education grade team lead, I led daily instruction across various subjects, managed all aspects of a classroom experience, and collected data to design individualized goals and resources in collaboration with interventionists, other teachers and parents. Under my management, struggling students significantly below grade level consistently improved their reading levels per semester, with at least 50% exceeding average grade level growth by increasing 3+ levels. Due to the service-first nature of my work, I regularly exercised sensitive judgment and creative problem-solving to meet deadlines and unexpected complications without compromising on students’ long-term goals and standards of excellence. I also chose to pursue a Master’s degree while teaching full-time, as well as learn tools on my own like Canva, Nearpod, Google Workspace features, and Figma to improve my teaching practice and expand what I could do creatively.
 
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       label="Annette Castro" 
+       description="photo" 
+       license="private" 
+       url="https://i.ibb.co/pdnjRr9/23-AD1-CC9-6-A04-498-B-BABD-47-C5-B86009-D8.jpg">
 
 # I can make a positive impact.
 
 Teaching during the COVID-19 pandemic revealed today’s challenge for educational tools and services to adequately address the ongoing learning crisis. Not only do I want to continue creating engaging content and experiences, I am ready to make a greater impact by connecting broader audiences to online resources that expand access to learning. Last fall, I took the leap to manage a legislative campaign for an education-focused candidate. Against an urgent timeline, I connected teams of volunteers, interns and political experts to deliver results while I researched and designed content to promote our mission and values across online platforms. Our campaign for a first-time candidate successfully earned 49% of the vote, achieving the most voter outreach in the state.
 
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+<param ve-image 
+       url=https://i.ibb.co/pdnjRr9/23-AD1-CC9-6-A04-498-B-BABD-47-C5-B86009-D8.jpg
+       zoom="11"
+       >
 
 # I am ready to grow and contribute.
 
