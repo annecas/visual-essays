@@ -1,7 +1,7 @@
 <param ve-config 
        title="Hi, I'm Annette Castro."
        author="Fellow, Innovation Applicant"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://i.ibb.co/jG4kJXW/774-ACFBE-D972-428-E-9-AD3-02-A297-D515-E0.jpg"
+       banner="https://iiif.juncture-digital.org/banner/?url=https://i.ibb.co/CKNDmWc/4-DE12-E90-51-D0-40-D7-AD81-B2-F996-D89183.jpg"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
@@ -27,7 +27,7 @@ My career focus has been to develop as a creative education leader, combined wit
        label="Annette Castro" 
        description="photo" 
        license="private" 
-       url="https://i.ibb.co/pdnjRr9/23-AD1-CC9-6-A04-498-B-BABD-47-C5-B86009-D8.jpg">
+       url="https://i.ibb.co/1KJqnTN/EB017780-CED3-48-B8-A8-D4-D477-A30-E3490.jpg">
 
 # I can make a positive impact.
 
