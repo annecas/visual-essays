@@ -36,6 +36,3 @@ I am eager to continue doing what I love—creating compelling content with deep
 
 I would be honored to join your team. Thank you for considering my application. I look forward to discussing my qualifications and enthusiasm for ITHAKA’s work further.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/K5dQqBc" data-context="false" ><a href="//imgur.com/a/K5dQqBc"></a></blockquote>
-<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> 
-
