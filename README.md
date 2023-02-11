@@ -25,12 +25,11 @@ Teaching during the COVID-19 pandemic revealed today’s challenge for education
 
 ## I am ready to grow and contribute.
 
- <param ve-image 
+I am eager to continue doing what I love—creating compelling content with deep care for users, leveraging data to adequately address needs, and growing through authentic collaboration—by working with like-minded professionals at ITHAKA to promote access to high-quality educational content. I have seen firsthand how technology can empower students to achieve their goals and develop learner confidence, and have actually used JSTORLabs’ projects to make learning more dynamic, such as the [Interview Archive](https://labs.jstor.org/interview/mlk/) to teach about the civil rights movement. Having specialized in the humanities and arts, I am also particularly drawn to working with libraries, higher education, and other cultural institutions while gaining familiarity with application prototyping, user research, business modeling, and structured brainstorming.
+
+<param ve-image 
        url="https://live.staticflickr.com/65535/52681022737_1eaf76e789_k.jpg"
        >                                                                                   
-
-I am eager to continue doing what I love—creating compelling content with deep care for users, leveraging data to adequately address needs, and growing through authentic collaboration—by working with like-minded professionals at ITHAKA to promote access to high-quality educational content. I have seen firsthand how technology can empower students to achieve their goals and develop learner confidence, and have actually used JSTORLabs’ projects to make learning more dynamic, such as the [Interview Archive](https://labs.jstor.org/interview/mlk/) to teach about the civil rights movement. Having specialized in the humanities and arts, I am also particularly drawn to working with libraries, higher education, and other cultural institutions while gaining familiarity with application prototyping, user research, business modeling, and structured brainstorming.
-                                                                                     
 
 I would be honored to join your team. Thank you for considering my application. I look forward to discussing my qualifications and enthusiasm for ITHAKA’s work further.
 
