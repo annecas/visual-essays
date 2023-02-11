@@ -34,8 +34,5 @@ I am eager to continue doing what I love—creating compelling content with deep
        url="https://i.ibb.co/7z6YhXc/C53846-C8-A6-C2-4-E4-B-BD61-3-E12037-BB75-B.jpg"
        >                                                                                   
 
-I would be honored to join your team and grow ITHAKA’s initiatives. Thank you for considering my application. I look forward to discussing my qualifications and enthusiasm for ITHAKA’s work further.
-
-
-
+I would be honored to join your team. Thank you for considering my application. I look forward to discussing my qualifications and enthusiasm for ITHAKA’s work further.
 
