@@ -3,20 +3,10 @@
        author="Fellow, Innovation Applicant"                                                                               
        layout="vertical">
 
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
-
-
 I am excited and prepared to contribute and grow as an Innovation Fellow at ITHAKA. With my extensive experience in education, customer experience, and user-centered design, I believe I would be an excellent fit for this company, its mission and this role. I have a [demonstrated passion](https://www.linkedin.com/in/annette-castro/) for designing resources that make information more accessible and engaging for diverse audiences and a flair for collaborating with others to make magic happen. As a former special education teacher with a Master’s degree for teaching exceptional learners, I am well-versed at communicating complex concepts, leveraging data, and centering user needs and interests to create, educate and inspire, so I am confident that I can bring significant insight and purpose to this role.
 
 <param ve-image 
        url="https://i.ibb.co/pdnjRr9/23-AD1-CC9-6-A04-498-B-BABD-47-C5-B86009-D8.jpg">
-       
 
 # I love getting creative.
 
