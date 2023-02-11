@@ -14,7 +14,6 @@ I am excited and prepared to contribute and grow as an Innovation Fellow at ITHA
 I am committed to developing as a creative leader in education, the arts and humanities. With seven years in museum and classroom education, I have demonstrated my consistent ability to adapt to challenges quickly while managing multiple priorities effectively and learning new tools to improve outcomes. As a special education grade team lead, I led daily instruction across various subjects, managed all aspects of a classroom experience, and collected data to design individualized goals and resources in collaboration with interventionists, other teachers and parents. Under my management, students reading significantly below grade level consistently improved their reading levels per semester, with at least 50% exceeding average grade level growth by increasing 3+ levels. Due to the service-first nature of my work, I regularly exercised sensitive judgment and creative problem-solving to meet deadlines and unexpected complications without compromising on students’ long-term goals and standards of excellence. I also chose to pursue a Master’s degree while teaching full-time, as well as learn tools on my own like Canva, Nearpod, Google Workspace features, and Figma to improve my practice and expand my creative capacity.
 
 <param ve-image 
-       description="photo" 
        license="private" 
        url="https://live.staticflickr.com/65535/52681543081_f44aad4a50_h.jpg">
 
