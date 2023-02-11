@@ -3,7 +3,7 @@
        author="Fellow, Innovation Applicant"                                                                               
        banner="https://iiif.juncture-digital.org/banner/?url=https://live.staticflickr.com/65535/52681543081_bf0b65dd64_k.jpg"
        layout="vertical">
-
+ 
 I am excited and prepared to contribute and grow as an Innovation Fellow at ITHAKA. With my extensive experience in education, customer experience, and user-centered design, I believe I would be an excellent fit for this company, its mission and this role. I have a [demonstrated passion](https://www.linkedin.com/in/annette-castro/) for designing resources that make information more accessible and engaging for diverse audiences and a flair for collaborating with others to make magic happen. As a former special education teacher with a Master’s degree for teaching exceptional learners, I am well-versed in communicating complex concepts, leveraging data, and centering user needs and interests to create, educate and inspire, so I am confident that I can bring significant insight and purpose to this role.
 
 <param ve-image 
