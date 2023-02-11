@@ -1,5 +1,5 @@
 <param ve-config 
-       title="Hi, I'm Annette Castro."
+       title="Hi, I'm Annette Castro!"
        author="Fellow, Innovation Applicant"
        banner="https://iiif.juncture-digital.org/banner/?url="https://i.ibb.co/hRDk5gZ/3-F973-C61-58-F0-496-D-92-A2-AFDE9162-BB21-auto-x2.jpg"
        layout="vertical">
