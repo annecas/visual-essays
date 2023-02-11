@@ -24,7 +24,6 @@ I am excited and prepared to contribute and grow as an Innovation Fellow at ITHA
 My career focus has been to develop as a creative education leader, combined with my passion for the arts and humanities. With seven years in classroom and museum education, including one fully remote instructional year, I have demonstrated my consistent ability to adapt to challenges quickly while managing multiple projects and priorities effectively, as well as initiate projects that improve processes and team results. As a special education grade team lead, I led daily instruction across various subjects, managed all aspects of a classroom experience, and collected data to design individualized goals and resources in collaboration with interventionists, other teachers and parents. Under my management, struggling students significantly below grade level consistently improved their reading levels per semester, with at least 50% exceeding average grade level growth by increasing 3+ levels. Due to the service-first nature of my work, I regularly exercised sensitive judgment and creative problem-solving to meet deadlines and unexpected complications without compromising on students’ long-term goals and standards of excellence. I also chose to pursue a Master’s degree while teaching full-time, as well as learn tools on my own like Canva, Nearpod, Google Workspace features, and Figma to improve my teaching practice and expand what I could do creatively.
 
 <param ve-image 
-       label="Annette Castro" 
        description="photo" 
        license="private" 
        url="https://i.ibb.co/1KJqnTN/EB017780-CED3-48-B8-A8-D4-D477-A30-E3490.jpg">
@@ -35,7 +34,6 @@ Teaching during the COVID-19 pandemic revealed today’s challenge for education
 
 <param ve-image 
        url=https://i.ibb.co/Lky4wXb/3753-B335-724-B-43-E9-A12-B-44520-D9-E67-D8.jpg
-       zoom="11"
        >
 
 # I am ready to grow and contribute.
