@@ -1,6 +1,8 @@
 <param ve-config 
        title="Hi, I'm Annette Castro!"
        author="Fellow, Innovation Applicant"                                                                               
+       banner="https://iiif.juncture-digital.org/banner/?url=https://i.ibb.co/cTDzXc5/69-CB400-B-1-C8-D-41-E2-BAB1-DC3-C1-E4-D9-D65.jpg" 
+       width=”200”
        layout="vertical">
 
 I am excited and prepared to contribute and grow as an Innovation Fellow at ITHAKA. With my extensive experience in education, customer experience, and user-centered design, I believe I would be an excellent fit for this company, its mission and this role. I have a [demonstrated passion](https://www.linkedin.com/in/annette-castro/) for designing resources that make information more accessible and engaging for diverse audiences and a flair for collaborating with others to make magic happen. As a former special education teacher with a Master’s degree for teaching exceptional learners, I am well-versed at communicating complex concepts, leveraging data, and centering user needs and interests to create, educate and inspire, so I am confident that I can bring significant insight and purpose to this role.
