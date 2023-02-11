@@ -1,7 +1,6 @@
 <param ve-config 
        title="Hi, I'm Annette Castro!"
-       author="Fellow, Innovation Applicant"
-       banner=[imgsrc="3F973C61-58F0-496D-92A2-AFDE9162BB21_auto_x2.jpg"]                                                                                       
+       author="Fellow, Innovation Applicant"                                                                               
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
